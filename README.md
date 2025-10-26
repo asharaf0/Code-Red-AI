@@ -7,6 +7,6 @@ Integrating RAG ANALYSE DOCUMENTS UPTO 200MB(TXT, PDF), Voice SPEAK(STT) AND VOI
 DEVELOPED BY THE TEAM CODE RED 
                                                                                                      
                                                                                                       
-                                                                                                      SK . ASHARAF & P . REVANTH
+                                                                                      SK . ASHARAF & P . REVANTH
 
 
